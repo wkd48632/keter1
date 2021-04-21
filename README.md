@@ -4,9 +4,7 @@ No based language
 ## Why no based?
 From now on, languages are leashed by implementation. x86, x64, arm, and so on.
 
-Is C really Xplatform language?
-Is really Xplatform language based on C?
-So I'll try this insane project.
+Is C really X-platform language? Is really X-platform language based on C? So I started this insane project.
 
 ## How to use?
 ```
