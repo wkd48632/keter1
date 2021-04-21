@@ -8,7 +8,11 @@ Is C really X-platform language? Are they really X-platform languages based on C
 
 ## How to use?
 ```
-wrap main.keter main.c
+wrap main.k main.c
+wrap main.k main.py
+wrap main.k main.js
+wrap main.k main.exe
+wrap main.k main.out
 ```
 
 ## How to bootstrap?
