@@ -16,6 +16,9 @@ Because of latency of human, program have to save data in data structure.
 If procedure goes one-time-in and one-time-out, all programs are O(1).  
 
 ## How to use?
+read 'grammar.md'
+
+## How to wrap?
 ```
 wrap main.k main.c
 wrap main.k main.py
