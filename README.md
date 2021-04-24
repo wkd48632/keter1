@@ -10,10 +10,10 @@ Is C really X-platform language? Are they really X-platform languages based on C
 
 ## Why one-time IO?
 CPU is not efficient.  
-Because of von neumann sturcture.
-Because of bottleneck from store and restore.
-Because of latency of human, program have to save data in data structure.
-If procedure goes one-time-in and one-time-out, all programs are O(1).
+Because of von neumann sturcture.  
+Because of bottleneck from store and restore.  
+Because of latency of human, program have to save data in data structure.  
+If procedure goes one-time-in and one-time-out, all programs are O(1).  
 
 ## How to use?
 ```
